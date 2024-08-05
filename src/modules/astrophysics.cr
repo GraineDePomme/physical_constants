@@ -16,6 +16,9 @@ module PhysicalConstants
         # The mass of the earth (in kg)
         MASS = 5.9722e24
 
+        # Earth's radius at the equator (in m)
+        EQUATORIAL_RADIUS = 6_356_137
+
     end
 
 end
