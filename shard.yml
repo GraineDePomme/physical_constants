@@ -1,0 +1,9 @@
+name: physical_constants
+version: 0.1.0
+
+authors:
+  - GraineDePomme <Guillaume.Sarisson@gmail.com>
+
+crystal: '>= 1.12.2'
+
+license: MIT
