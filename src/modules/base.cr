@@ -6,6 +6,9 @@ module PhysicalConstants
     # Newtonian constant of gravitation (in m^3 . kg^-1 . s^-2)
     GRAVITATIONAL_CONSTANT = 6.674_30e-11
 
+    # Standard acceleration of gravity on Earth surface (in m . s^-2)
+    GRAVITY_STANDARD_ACCELERATION = 9.806_65
+
     # Planck's constant (in J . Hz^-1)
     PLANCK_CONSTANT = 6.626_070_15e-34
 
