@@ -12,6 +12,9 @@ module PhysicalConstants
     # Planck's constant (in J . Hz^-1)
     PLANCK_CONSTANT = 6.626_070_15e-34
 
+    # The reduced Planck's constant h_bar = h / 2 * pi (in J . s)
+    PLANCK_CONSTANT_REDUCED = 1.054_571_817e-34
+
     # Avogadro's constant (in mol^-1)
     AVOGADRO_CONSTANT = 6.022_140_76e23
 
